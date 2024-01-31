@@ -1,0 +1,28 @@
+h2{
+    color:white;
+}
+th{
+    background-color:yellow;
+    color:red;
+}
+body{
+    background-color:rgb(236, 147, 29);
+}
+#class{
+    background-color: white;;
+}
+#heading{
+    background-color: rgb(93, 93, 218);
+}
+#color{
+    background-color: pink;
+}
+#brown{
+    background-color: rgb(48, 187, 48);
+}
+#red{
+    background-color: rgb(240, 56, 56);
+}
+#work{
+    background-color: rgb(241, 241, 85);
+}
